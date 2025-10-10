@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" width="800" height="auto">
 
-# 👋 Hi, I'm Shreyash!
+# 👋 Hi, I'm Crimson!
 <img align='right' width='400' src='https://i.pinimg.com/originals/0f/b9/4d/0fb94dff52a5935e105ec497a0c010a5.gif'/>
 <h3>Inceptive Cybersecurity Analyst | Reverse Engineering Aficionado</h3>
 

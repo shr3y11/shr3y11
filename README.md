@@ -2,7 +2,7 @@
 
 **`Security Researcher (Offensive Security/Red Team)`**
 
-I am an Security Researcher specializing in Offensive Security and Red Teaming, focused on understanding and evaluating real-world attack surfaces. My work is conducted end-to-end, from threat modeling and environment design to vulnerability research, exploitation, and post-exploitation, with an emphasis on practical security impact. Contact me at **thecrimsonyx@gmail.com**
+I am an Security Researcher specializing in Offensive Security and Red Teaming, focused on understanding and evaluating real-world attack surfaces. My work is conducted end-to-end, from threat modeling and environment design to vulnerability research, exploitation, and post-exploitation, with an emphasis on practical security impact.
 
 [![Blog](https://img.shields.io/badge/Blog-Cr1msonyx.github.io-blue?style=for-the-badge&logo=github)](https://Cr1msonyx.github.io)
 
@@ -17,4 +17,5 @@ I am an Security Researcher specializing in Offensive Security and Red Teaming, 
 #
 
 ### 📬 Contact
-<a href="https://linkedin.com/in/shreeyash-wale-5787a4317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreeyash-wale-5787a4317" height="30" width="40" /></a>
+**📧 Email: [thecrimsonyx@gmail.com]**
+
